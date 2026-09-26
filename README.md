@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, I'm  Lucas Weber <br><br><br>Subtitle:<br>I use Arch, btw. Operating on low power mode until challenged.<br><br>🔭 I’m currently working on:<br>staying under the radar and letting people think I'm doing nothing.<br><br>🌱 I’m currently learning:<br>everything you think I can't master. Tell me I can't do it, and I'll learn it 10x faster.<br><br>🤔 I’m looking for help with:<br>finding an actual challenge that wakes me up.<br><br>💬 Ask me about:<br>Backend architecture, Linux rice, or why your code is taking too long to compile.<br><br>📫 How to reach me:<br>Don't. Unless someone is underestimating my stack.<br><br>⚡ Fun fact:<br>I sleep 80% of the time. The other 20% is spent rewriting your entire system overnight out of pure spite.
+Hi there 👋, I'm  Lucas Weber 
 
 
 # 💻 Tech Stack:
