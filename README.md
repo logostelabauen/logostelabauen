@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, I'm  Lucas Weber 
+Hi there 👋, I'm  Lucas Weber <br>
 I use Arch btw.
 
 # 💻 Tech Stack:
